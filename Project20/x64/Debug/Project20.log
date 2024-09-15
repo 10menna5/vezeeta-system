@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\crazy mouse\source\repos\Project20\Project20\FileName.cpp(1939,30): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\crazy mouse\source\repos\Project20\Project20\FileName.cpp(1953,30): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\crazy mouse\source\repos\Project20\Project20\FileName.cpp(1916,7): warning C4101: 'cho': unreferenced local variable
+  Project20.vcxproj -> C:\Users\crazy mouse\source\repos\Project20\x64\Debug\Project20.exe
